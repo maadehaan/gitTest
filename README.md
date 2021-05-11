@@ -1,2 +1,2 @@
 # gitTest
-First try of using git
+First try of using github
